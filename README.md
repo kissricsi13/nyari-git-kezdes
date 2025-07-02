@@ -4,4 +4,4 @@ Próba kiegészítés.
 
 Új sor hozzáadása próbának.
 
-Ez a sor a MAIN ágon van !!!!!!!!!!!!
+Ez a sor a FUNKCIO ágon van !!!!!!!!!!!!
