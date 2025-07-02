@@ -4,4 +4,4 @@ Próba kiegészítés.
 
 Új sor hozzáadása próbának.
 
-Ez a sor a MAIN ágon van !!!!!!!!!!!!
+Ez a változat a main ágon készült.
