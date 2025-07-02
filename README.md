@@ -4,4 +4,5 @@ Próba kiegészítés.
 
 Új sor hozzáadása próbának.
 
-Ez a változat a main ágon készült.
+Ez a végleges változat, amit megtartok.
+
